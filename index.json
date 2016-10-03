@@ -5,4 +5,11 @@
  ]
  "InserKey" : true
  "ApiProt" : "https://gist.github.com/dj-tech/9395ff9b235d17963a78e903be4bc94d.js"
+ "Gene" : Infinity
+ "Analize" : [
+  apiGenomicsGoggle,
+  null,
+  "Human",
+  "c"
+ ]
 }
